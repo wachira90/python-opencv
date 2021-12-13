@@ -7,7 +7,7 @@ python-opencv
 ````
 pip install opencv-contrib-python
 ````
-## download harr
+## download haarcascades
 ````
 https://github.com/opencv/opencv/tree/master/data/haarcascades
 ````
